@@ -1,0 +1,8 @@
+E:\Atividades\Ex9\9.nomeidade\9.nomeidade\bin\Debug\9.nomeidade.exe.config
+E:\Atividades\Ex9\9.nomeidade\9.nomeidade\bin\Debug\9.nomeidade.exe
+E:\Atividades\Ex9\9.nomeidade\9.nomeidade\bin\Debug\9.nomeidade.pdb
+E:\Atividades\Ex9\9.nomeidade\9.nomeidade\obj\Debug\9.nomeidade.csproj.AssemblyReference.cache
+E:\Atividades\Ex9\9.nomeidade\9.nomeidade\obj\Debug\9.nomeidade.csproj.CoreCompileInputs.cache
+E:\Atividades\Ex9\9.nomeidade\9.nomeidade\obj\Debug\9.nomeidade.exe
+E:\Atividades\Ex9\9.nomeidade\9.nomeidade\obj\Debug\9.nomeidade.pdb
+E:\Atividades\Ex9\9.nomeidade\9.nomeidade\obj\Debug\9.nomeidade.exe.config

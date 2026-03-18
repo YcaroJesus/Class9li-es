@@ -1,0 +1,7 @@
+E:\Atividades\Ex7\7.Dolar\7.Dolar\bin\Debug\7.Dolar.exe.config
+E:\Atividades\Ex7\7.Dolar\7.Dolar\bin\Debug\7.Dolar.exe
+E:\Atividades\Ex7\7.Dolar\7.Dolar\bin\Debug\7.Dolar.pdb
+E:\Atividades\Ex7\7.Dolar\7.Dolar\obj\Debug\7.Dolar.csproj.AssemblyReference.cache
+E:\Atividades\Ex7\7.Dolar\7.Dolar\obj\Debug\7.Dolar.csproj.CoreCompileInputs.cache
+E:\Atividades\Ex7\7.Dolar\7.Dolar\obj\Debug\7.Dolar.exe
+E:\Atividades\Ex7\7.Dolar\7.Dolar\obj\Debug\7.Dolar.pdb

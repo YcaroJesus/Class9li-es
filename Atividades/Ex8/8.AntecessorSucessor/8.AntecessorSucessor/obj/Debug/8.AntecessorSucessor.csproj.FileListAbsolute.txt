@@ -1,0 +1,7 @@
+E:\Atividades\Ex8\8.AntecessorSucessor\8.AntecessorSucessor\bin\Debug\8.AntecessorSucessor.exe.config
+E:\Atividades\Ex8\8.AntecessorSucessor\8.AntecessorSucessor\bin\Debug\8.AntecessorSucessor.exe
+E:\Atividades\Ex8\8.AntecessorSucessor\8.AntecessorSucessor\bin\Debug\8.AntecessorSucessor.pdb
+E:\Atividades\Ex8\8.AntecessorSucessor\8.AntecessorSucessor\obj\Debug\8.AntecessorSucessor.csproj.AssemblyReference.cache
+E:\Atividades\Ex8\8.AntecessorSucessor\8.AntecessorSucessor\obj\Debug\8.AntecessorSucessor.csproj.CoreCompileInputs.cache
+E:\Atividades\Ex8\8.AntecessorSucessor\8.AntecessorSucessor\obj\Debug\8.AntecessorSucessor.exe
+E:\Atividades\Ex8\8.AntecessorSucessor\8.AntecessorSucessor\obj\Debug\8.AntecessorSucessor.pdb
