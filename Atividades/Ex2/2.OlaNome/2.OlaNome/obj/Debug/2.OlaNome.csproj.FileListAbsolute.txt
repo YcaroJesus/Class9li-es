@@ -1,0 +1,7 @@
+E:\Atividades\Ex2\2.OlaNome\2.OlaNome\obj\Debug\2.OlaNome.csproj.AssemblyReference.cache
+E:\Atividades\Ex2\2.OlaNome\2.OlaNome\obj\Debug\2.OlaNome.csproj.CoreCompileInputs.cache
+E:\Atividades\Ex2\2.OlaNome\2.OlaNome\bin\Debug\2.OlaNome.exe.config
+E:\Atividades\Ex2\2.OlaNome\2.OlaNome\bin\Debug\2.OlaNome.exe
+E:\Atividades\Ex2\2.OlaNome\2.OlaNome\bin\Debug\2.OlaNome.pdb
+E:\Atividades\Ex2\2.OlaNome\2.OlaNome\obj\Debug\2.OlaNome.exe
+E:\Atividades\Ex2\2.OlaNome\2.OlaNome\obj\Debug\2.OlaNome.pdb

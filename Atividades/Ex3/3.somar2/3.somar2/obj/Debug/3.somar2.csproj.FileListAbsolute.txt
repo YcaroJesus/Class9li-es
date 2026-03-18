@@ -1,0 +1,7 @@
+E:\Atividades\Ex3\3.somar2\3.somar2\bin\Debug\3.somar2.exe.config
+E:\Atividades\Ex3\3.somar2\3.somar2\bin\Debug\3.somar2.exe
+E:\Atividades\Ex3\3.somar2\3.somar2\bin\Debug\3.somar2.pdb
+E:\Atividades\Ex3\3.somar2\3.somar2\obj\Debug\3.somar2.csproj.AssemblyReference.cache
+E:\Atividades\Ex3\3.somar2\3.somar2\obj\Debug\3.somar2.csproj.CoreCompileInputs.cache
+E:\Atividades\Ex3\3.somar2\3.somar2\obj\Debug\3.somar2.exe
+E:\Atividades\Ex3\3.somar2\3.somar2\obj\Debug\3.somar2.pdb

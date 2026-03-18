@@ -1,0 +1,7 @@
+E:\Atividades\Ex4\4.Media3\4.Media3\bin\Debug\4.Media3.exe.config
+E:\Atividades\Ex4\4.Media3\4.Media3\bin\Debug\4.Media3.exe
+E:\Atividades\Ex4\4.Media3\4.Media3\bin\Debug\4.Media3.pdb
+E:\Atividades\Ex4\4.Media3\4.Media3\obj\Debug\4.Media3.csproj.AssemblyReference.cache
+E:\Atividades\Ex4\4.Media3\4.Media3\obj\Debug\4.Media3.csproj.CoreCompileInputs.cache
+E:\Atividades\Ex4\4.Media3\4.Media3\obj\Debug\4.Media3.exe
+E:\Atividades\Ex4\4.Media3\4.Media3\obj\Debug\4.Media3.pdb

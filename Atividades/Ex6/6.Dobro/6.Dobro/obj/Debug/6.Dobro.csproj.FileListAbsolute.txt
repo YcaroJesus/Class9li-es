@@ -1,0 +1,7 @@
+E:\Atividades\Ex6\6.Dobro\6.Dobro\bin\Debug\6.Dobro.exe.config
+E:\Atividades\Ex6\6.Dobro\6.Dobro\bin\Debug\6.Dobro.exe
+E:\Atividades\Ex6\6.Dobro\6.Dobro\bin\Debug\6.Dobro.pdb
+E:\Atividades\Ex6\6.Dobro\6.Dobro\obj\Debug\6.Dobro.csproj.AssemblyReference.cache
+E:\Atividades\Ex6\6.Dobro\6.Dobro\obj\Debug\6.Dobro.csproj.CoreCompileInputs.cache
+E:\Atividades\Ex6\6.Dobro\6.Dobro\obj\Debug\6.Dobro.exe
+E:\Atividades\Ex6\6.Dobro\6.Dobro\obj\Debug\6.Dobro.pdb

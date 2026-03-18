@@ -1,0 +1,8 @@
+E:\Atividades\Ex5\5.Temperatura\5.Temperatura\bin\Debug\5.Temperatura.exe.config
+E:\Atividades\Ex5\5.Temperatura\5.Temperatura\bin\Debug\5.Temperatura.exe
+E:\Atividades\Ex5\5.Temperatura\5.Temperatura\bin\Debug\5.Temperatura.pdb
+E:\Atividades\Ex5\5.Temperatura\5.Temperatura\obj\Debug\5.Temperatura.csproj.AssemblyReference.cache
+E:\Atividades\Ex5\5.Temperatura\5.Temperatura\obj\Debug\5.Temperatura.csproj.CoreCompileInputs.cache
+E:\Atividades\Ex5\5.Temperatura\5.Temperatura\obj\Debug\5.Temperatura.exe
+E:\Atividades\Ex5\5.Temperatura\5.Temperatura\obj\Debug\5.Temperatura.pdb
+E:\Atividades\Ex5\5.Temperatura\5.Temperatura\obj\Debug\5.Temperatura.exe.config
