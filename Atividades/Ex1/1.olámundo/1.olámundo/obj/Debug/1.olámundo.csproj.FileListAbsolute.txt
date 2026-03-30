@@ -1,0 +1,7 @@
+E:\Atividades\Ex1\1.olámundo\1.olámundo\bin\Debug\1.olámundo.exe.config
+E:\Atividades\Ex1\1.olámundo\1.olámundo\bin\Debug\1.olámundo.exe
+E:\Atividades\Ex1\1.olámundo\1.olámundo\bin\Debug\1.olámundo.pdb
+E:\Atividades\Ex1\1.olámundo\1.olámundo\obj\Debug\1.olámundo.csproj.AssemblyReference.cache
+E:\Atividades\Ex1\1.olámundo\1.olámundo\obj\Debug\1.olámundo.csproj.CoreCompileInputs.cache
+E:\Atividades\Ex1\1.olámundo\1.olámundo\obj\Debug\1.olámundo.exe
+E:\Atividades\Ex1\1.olámundo\1.olámundo\obj\Debug\1.olámundo.pdb
